@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547134198743",
+    "project_id": "btlandroid-f4077",
+    "storage_bucket": "btlandroid-f4077.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547134198743:android:58ee4342efca17ed107192",
+        "android_client_info": {
+          "package_name": "com.example.btlandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547134198743-sfmboo08flh8fq2f4odi5liq8419joct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj4aKiK3XP2UzT5Bub-cxtoIhtrOWPg_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547134198743-sfmboo08flh8fq2f4odi5liq8419joct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/home">
+    </item>
+
+    <item android:title="Alarm"
+        android:icon="@drawable/ic_alarm"
+        android:id="@+id/alarm">
+    </item>
+
+    <item android:title="Weather"
+        android:icon="@drawable/ic_weather"
+        android:id="@+id/weather">
+    </item>
+</menu>

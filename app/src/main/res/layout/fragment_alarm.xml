@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fragments.Alarm">
+
+    <TimePicker
+        android:layout_marginTop="100dp"
+        android:id="@+id/timeAlarm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:timePickerMode="spinner"/>
+
+    <Button
+        android:id="@+id/buttonAlarm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="báo thức"/>
+
+   <TextView
+       android:id="@+id/tvalarm"
+       android:layout_margin="5dp"
+       android:layout_width="match_parent"
+       android:padding="5dp"
+       android:layout_height="wrap_content"
+       android:text="Báo thức: \n"
+       android:gravity="center"
+       android:textSize="30dp"
+       android:background="#CC7871"/>
+
+</LinearLayout>
