@@ -13,7 +13,7 @@
         android:theme="@style/Theme.BTLAndroid"
         tools:replace="android:appComponentFactory"
         android:usesCleartextTraffic="true">
-        <activity android:name=".Activity.Item"></activity>
+        <activity android:name=".Activity.Item" android:label="Edit Notification"></activity>
         <activity android:name=".Activity.AddNotification" />
         <activity android:name=".Activity.Info" />
         <activity android:name=".Login">
